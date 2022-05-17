@@ -1,0 +1,7 @@
+providers:
+  - displayName: GitHub Actions
+    id: github-actions
+templates:
+  - displayName: Three-stage pipeline
+    provider: github-actions
+    location: github-actions-3-stage-pipeline
